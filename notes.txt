@@ -1,3 +1,4 @@
 "Learned about git init" 
-"Learned about git add and git commit" 
-"Learned about checking status and log" 
+"Learned about git add and git commit UPDATED" 
+"Learned about checking status and log"
+"ADDING NEW LINE" 
