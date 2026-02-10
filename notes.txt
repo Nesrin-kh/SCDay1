@@ -2,4 +2,8 @@
 "Learned about git add and git commit UPDATED" 
 "Learned about checking status and log"
 "ADDING NEW LINE" 
+<<<<<<< HEAD
 "TASK@ TEST"
+=======
+"UPDATING ON REMOTE REPO"
+>>>>>>> 42552cc03b1536e9467b607bd35428cfc664b19e
