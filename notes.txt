@@ -2,3 +2,4 @@
 "Learned about git add and git commit UPDATED" 
 "Learned about checking status and log"
 "ADDING NEW LINE" 
+"UPDATING ON REMOTE REPO"
